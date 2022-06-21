@@ -15,7 +15,7 @@ namespace pcscThaiNationalCard
             ThaiNationalCard thaicard = new ThaiNationalCard();
             ReaderStatus readstat = new ReaderStatus();
             readstat.ReaderStatusNow();
-            thaicard.readCard();
+            thaicard.ReadCard();
             Console.WriteLine("Press any key to exit.");
             Console.ReadKey();
         }

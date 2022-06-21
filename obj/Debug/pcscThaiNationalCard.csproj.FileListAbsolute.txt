@@ -1,10 +1,12 @@
 D:\Workspace\learningspace\pcscThaiNationalCard\bin\Debug\pcscThaiNationalCard.exe.config
 D:\Workspace\learningspace\pcscThaiNationalCard\bin\Debug\pcscThaiNationalCard.exe
 D:\Workspace\learningspace\pcscThaiNationalCard\bin\Debug\pcscThaiNationalCard.pdb
-D:\Workspace\learningspace\pcscThaiNationalCard\bin\Debug\pcsc-sharp.dll
+D:\Workspace\learningspace\pcscThaiNationalCard\bin\Debug\PCSC.dll
 D:\Workspace\learningspace\pcscThaiNationalCard\bin\Debug\ThaiNationalIDCard.dll
+D:\Workspace\learningspace\pcscThaiNationalCard\bin\Debug\pcsc-sharp.dll
+D:\Workspace\learningspace\pcscThaiNationalCard\bin\Debug\PCSC.pdb
+D:\Workspace\learningspace\pcscThaiNationalCard\bin\Debug\PCSC.xml
 D:\Workspace\learningspace\pcscThaiNationalCard\obj\Debug\pcscThaiNationalCard.csproj.AssemblyReference.cache
-D:\Workspace\learningspace\pcscThaiNationalCard\obj\Debug\pcscThaiNationalCard.csproj.SuggestedBindingRedirects.cache
 D:\Workspace\learningspace\pcscThaiNationalCard\obj\Debug\pcscThaiNationalCard.csproj.CoreCompileInputs.cache
 D:\Workspace\learningspace\pcscThaiNationalCard\obj\Debug\pcscThaiNationalCard.csproj.CopyComplete
 D:\Workspace\learningspace\pcscThaiNationalCard\obj\Debug\pcscThaiNationalCard.exe
