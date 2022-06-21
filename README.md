@@ -39,10 +39,14 @@
 	}
 	
 Thai National Card Example
-	
-	      using System;
-          using ThaiNationalIDCard;
-          namespace pcscThaiNationalCard{
+		
+	using System;
+        using ThaiNationalIDCard;using System;
+	using ThaiNationalIDCard;
+	using System.Drawing;
+	using System.IO;
+	using System.Drawing.Imaging;
+        namespace pcscThaiNationalCard{
           internal class ThaiNationalCard{
               public void readCard(){
                 ThaiIDCard idcard = new ThaiIDCard();
@@ -50,13 +54,13 @@ Thai National Card Example
                 if (personal != null)
                 {
                     Personal personal = idcard.readAllPhoto();
-            const string path_thaicardpic = "D:\\grgbanking\\ecat\\thainationalcard\\pic\\";
-            if (!Directory.Exists(path_thaicardpic))
-            {
+            	    const string path_thaicardpic = "D:\\grgbanking\\ecat\\thainationalcard\\pic\\";
+            	if (!Directory.Exists(path_thaicardpic))
+            	{
                 Directory.CreateDirectory(path_thaicardpic);
-            }
-            if (personal != null)
-            {
+            	}
+            	if (personal != null)
+            	{
                 Console.WriteLine(personal.Citizenid);//personID
                 Console.WriteLine(personal.Birthday.ToString("dd/MM/yyyy"));//birthday
                 Console.WriteLine(personal.Sex);//gender
